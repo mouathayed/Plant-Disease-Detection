@@ -6,9 +6,9 @@ import pandas as pd
 
 app = Flask(__name__)
 
-model = tf.keras.models.load_model('C:/Users/mouat/Desktop/Developpment/Projects/Plant Disease Recognition App/myModel.h5')
+model = tf.keras.models.load_model('C:/Users/mouat/Desktop/Developpment/Projects/Plant Disease Recognition App/myModel.h5') # the path of the model
 
-df = pd.read_csv('C:/Users/mouat/Desktop/Developpment/Projects/Plant Disease Recognition App/p4.csv')  
+df = pd.read_csv('C:/Users/mouat/Desktop/Developpment/Projects/Plant Disease Recognition App/p4.csv')  # the path of the csv file
 
 def preprocess_image(image_path):
     image = cv2.imread(image_path)
