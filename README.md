@@ -3,5 +3,6 @@ AI-Driven Plant Health Diagnostic App : Source code for a mobile app using AI to
 
 ![Alt text](https://github.com/mouathayed/Plant-Disease-Detection/assets/74305074/60cc89b8-9d02-4224-9841-cabd2e27e66a)
 
-[![Alt text for your video](https://github.com/mouathayed/Plant-Disease-Detection/assets/your-thumbnail.jpg)](https://drive.google.com/file/d/1EPnh19EMorkfTUq4KodNxGfCXorXZ2lB/view?usp=sharing)
+[![Video Thumbnail](https://github.com/mouathayed/Plant-Disease-Detection/blob/main/images/video_thumbnail)](https://drive.google.com/file/d/1EPnh19EMorkfTUq4KodNxGfCXorXZ2lB/view?usp=drive_link)
+
 
