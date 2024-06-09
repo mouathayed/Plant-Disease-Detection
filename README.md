@@ -21,7 +21,15 @@ Below are screenshots of the LeafGuard application in action, showcasing its use
 
 Our models of choice, MobileNetV2 and TensorFlow Lite, were selected for their lightweight architecture and efficient processing, which make them ideal for deployment on devices with limited resources while maintaining high accuracy.
 
-![image](https://github.com/mouathayed/Plant-Disease-Detection/assets/74305074/04603d19-f1d6-4f0c-9ee6-93ae11a77308)# Plant-Disease-Detection
+![image](https://github.com/mouathayed/Plant-Disease-Detection/assets/74305074/04603d19-f1d6-4f0c-9ee6-93ae11a77308)
+
+
+### Dataset
+
+PlantVillage Dataset
+The PlantVillage Dataset on Kaggle is an extensive collection of 54,306 images of healthy and diseased crop leaves across 38 classes, including various diseases affecting crops like Apple, Tomato, and Corn. It's designed for training machine learning models to detect and classify plant diseases effectively, helping to advance agricultural practices through AI. This dataset is essential for developers aiming to create tools that support farmers in early disease detection and management.
+
+link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 
 
