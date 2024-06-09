@@ -5,7 +5,7 @@ AI-Driven Plant Health Diagnostic App : Source code for a mobile app using AI to
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1EPnh19EMorkfTUq4KodNxGfCXorXZ2lB/view?usp=drive_link">
-    <img src="https://github.com/mouathayed/Plant-Disease-Detection/blob/main/images/video_thumbnail" width="250" alt="Video Thumbnail">
+    <img src="https://github.com/mouathayed/Plant-Disease-Detection/blob/main/images/video_thumbnail.png" width="250" alt="Video Thumbnail">
   </a>
 </div>
 
