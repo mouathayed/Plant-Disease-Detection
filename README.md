@@ -26,7 +26,6 @@ Our models of choice, MobileNetV2 and TensorFlow Lite, were selected for their l
 
 ### Dataset
 
-PlantVillage Dataset
 The PlantVillage Dataset on Kaggle is an extensive collection of 54,306 images of healthy and diseased crop leaves across 38 classes, including various diseases affecting crops like Apple, Tomato, and Corn. It's designed for training machine learning models to detect and classify plant diseases effectively, helping to advance agricultural practices through AI. This dataset is essential for developers aiming to create tools that support farmers in early disease detection and management.
 
 link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
