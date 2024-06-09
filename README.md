@@ -32,5 +32,10 @@ The PlantVillage Dataset on Kaggle is an extensive collection of 54,306 images o
 link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 
+### Project Folder Structure
 
+LeafGuard Folder: Containes the flutter application folder
 
+ModelApi Folder: Containes the api code using Flask
+
+Notebook.ipynb: The Model's Notebook file
